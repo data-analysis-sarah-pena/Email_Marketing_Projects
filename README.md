@@ -1,2 +1,2 @@
-# Email_Marketing_Projects
-A compilation of impactful email marketing projects. 
+# Email_Marketing_Samples
+A compilation of impactful email marketing samples. 
